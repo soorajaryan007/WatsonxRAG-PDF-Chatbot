@@ -79,7 +79,7 @@ Then open 👉 [http://localhost:7860](http://localhost:7860)
 Since your bot is deployed on Render (free plan), you can share the **public Render URL**:
 
 ```
-[https://<your-render-app-name>.onrender.com](https://watsonxrag-pdf-chatbot-1.onrender.com/)
+https://watsonxrag-pdf-chatbot-1.onrender.com/
 ```
 
 Users can **upload PDFs and chat directly** in the browser without installing anything.
